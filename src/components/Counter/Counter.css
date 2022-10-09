@@ -1,0 +1,30 @@
+.btn-increment{
+    background-color:green;
+    color:whitesmoke;
+    padding:10px 30px;
+    border:0;
+    font-size: 18px;
+    margin: 10px;
+}
+.btn-decrement{
+    background-color:limegreen;
+    color:whitesmoke;
+    padding:10px 30px;
+    border:0;
+    font-size: 18px;
+    margin: 10px;
+}
+.btn-reset{
+    background-color:red;
+    color:whitesmoke;
+    padding:10px 30px;
+    border:0;
+    font-size: 18px;
+    margin: 10px;
+}
+.count{
+    background-color:indigo;
+    color: whitesmoke;
+    padding: 10px 30px;
+    border-radius: 20%;
+}
